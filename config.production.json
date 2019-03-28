@@ -1,7 +1,7 @@
 {
-  "url": "http://47.100.207.40:8080",
+  "url": "http://zhangweiji.com",
   "server": {
-    "port": 2368,
+    "port": 8282,
     "host": "127.0.0.1"
   },
   "database": {
